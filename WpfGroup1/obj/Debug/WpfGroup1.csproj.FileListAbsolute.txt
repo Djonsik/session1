@@ -1,0 +1,90 @@
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\bin\Debug\WpfGroup1.exe.config
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\bin\Debug\WpfGroup1.exe
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\bin\Debug\WpfGroup1.pdb
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.csproj.AssemblyReference.cache
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\MainWindow.g.cs
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\App.g.cs
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1_MarkupCompile.cache
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1_MarkupCompile.lref
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\MainWindow.baml
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.g.resources
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.Properties.Resources.resources
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.csproj.GenerateResource.cache
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.csproj.CoreCompileInputs.cache
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.exe
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.pdb
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\PageAdmin.g.cs
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\PageUser.g.cs
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\PageAdmin.baml
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\PageUser.baml
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\bin\Debug\EntityFramework.dll
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\bin\Debug\EntityFramework.xml
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1_Content.g.cs
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.csproj.CopyComplete
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\PageAddProduct.g.cs
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\PageAddProduct.baml
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\PageEditProduct.g.cs
+C:\Users\Доска 43\source\repos\WpfGroup1\WpfGroup1\obj\Debug\PageEditProduct.baml
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\bin\Debug\WpfGroup1.exe.config
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\bin\Debug\WpfGroup1.exe
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\bin\Debug\WpfGroup1.pdb
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\bin\Debug\EntityFramework.dll
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\bin\Debug\EntityFramework.SqlServer.dll
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\bin\Debug\EntityFramework.xml
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\bin\Debug\EntityFramework.SqlServer.xml
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\bin\Debug\ru\EntityFramework.resources.dll
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.csproj.AssemblyReference.cache
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\MainWindow.g.cs
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\PageAddProduct.g.cs
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\PageAdmin.g.cs
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\PageEditProduct.g.cs
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\PageUser.g.cs
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\App.g.cs
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1_Content.g.cs
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1_MarkupCompile.cache
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1_MarkupCompile.lref
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\MainWindow.baml
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\PageAddProduct.baml
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\PageAdmin.baml
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\PageEditProduct.baml
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\PageUser.baml
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.g.resources
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.Properties.Resources.resources
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.csproj.GenerateResource.cache
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.csproj.CoreCompileInputs.cache
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.csproj.CopyComplete
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.exe
+\\STUDENT-FILES\Users\Public\19-09ИС\Потапов Николай\Потапов Николай\Допуск к экзамену\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.pdb
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\bin\Debug\WpfGroup1.exe.config
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\bin\Debug\WpfGroup1.exe
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\bin\Debug\WpfGroup1.pdb
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\PageAddProduct.g.cs
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\PageAdmin.g.cs
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\PageEditProduct.g.cs
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\PageUser.g.cs
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\App.g.cs
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1_Content.g.cs
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1_MarkupCompile.cache
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1_MarkupCompile.lref
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\PageAddProduct.baml
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\PageAdmin.baml
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\PageEditProduct.baml
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\PageUser.baml
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.g.resources
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.Properties.Resources.resources
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.csproj.CopyComplete
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.exe
+C:\Users\student\Desktop\WpfGroup1\WpfGroup1\obj\Debug\WpfGroup1.pdb
